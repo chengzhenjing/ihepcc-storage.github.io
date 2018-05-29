@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ihepcc-storage.github.io/"/>
-  <updated>2018-05-29T13:47:16.717Z</updated>
+  <updated>2018-05-29T13:44:13.248Z</updated>
   <id>https://ihepcc-storage.github.io/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>weekly-meeting-20180525</title>
-    <link href="https://ihepcc-storage.github.io/2018/05/29/weekly-meeting-20180525/"/>
-    <id>https://ihepcc-storage.github.io/2018/05/29/weekly-meeting-20180525/</id>
-    <published>2018-05-29T13:46:32.000Z</published>
-    <updated>2018-05-29T13:47:16.717Z</updated>
-    
-    <content type="html"><![CDATA[<p>我们开始使用 github 来存储代码。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;我们开始使用 github 来存储代码。&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="weekly meeting" scheme="https://ihepcc-storage.github.io/tags/weekly-meeting/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -58,6 +34,30 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>weekly meeting 20180525</title>
+    <link href="https://ihepcc-storage.github.io/2018/05/25/weekly-meeting-20180525/"/>
+    <id>https://ihepcc-storage.github.io/2018/05/25/weekly-meeting-20180525/</id>
+    <published>2018-05-25T18:30:00.000Z</published>
+    <updated>2018-05-29T14:11:15.597Z</updated>
+    
+    <content type="html"><![CDATA[<p>我们开始使用 github 来存储代码。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我们开始使用 github 来存储代码。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="weekly meeting" scheme="https://ihepcc-storage.github.io/tags/weekly-meeting/"/>
     
   </entry>
   
