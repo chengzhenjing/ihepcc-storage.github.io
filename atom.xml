@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://ihepcc-storage.github.io/"/>
   <updated>2018-05-29T13:47:16.717Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://ihepcc-storage.github.io/</id>
   
   <author>
     <name>Tao Lin</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>weekly-meeting-20180525</title>
-    <link href="http://yoursite.com/2018/05/29/weekly-meeting-20180525/"/>
-    <id>http://yoursite.com/2018/05/29/weekly-meeting-20180525/</id>
+    <link href="https://ihepcc-storage.github.io/2018/05/29/weekly-meeting-20180525/"/>
+    <id>https://ihepcc-storage.github.io/2018/05/29/weekly-meeting-20180525/</id>
     <published>2018-05-29T13:46:32.000Z</published>
     <updated>2018-05-29T13:47:16.717Z</updated>
     
@@ -36,14 +36,14 @@
     </summary>
     
     
-      <category term="weekly meeting" scheme="http://yoursite.com/tags/weekly-meeting/"/>
+      <category term="weekly meeting" scheme="https://ihepcc-storage.github.io/tags/weekly-meeting/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/05/29/hello-world/"/>
-    <id>http://yoursite.com/2018/05/29/hello-world/</id>
+    <link href="https://ihepcc-storage.github.io/2018/05/29/hello-world/"/>
+    <id>https://ihepcc-storage.github.io/2018/05/29/hello-world/</id>
     <published>2018-05-29T13:44:13.248Z</published>
     <updated>2018-05-29T13:44:13.248Z</updated>
     
